@@ -1,0 +1,14 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "deploy": " — zip-file fileb://Lambda-Deployment.zip",
+    "predeploy": "zip -r Lambda-Deployment.zip * -x *.zip *.log"
+  },
+  "private": true,
+  "dependencies": {
+    "d3-node": "2.1.0",
+    "html-pdf": "^2.1.0"
+  }
+}
