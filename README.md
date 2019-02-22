@@ -25,3 +25,5 @@ Reference:
 - https://www.npmjs.com/package/d3-node
 - https://www.npmjs.com/package/html-pdf
 - https://www.dashingd3js.com/table-of-contents
+- http://techslides.com/over-1000-d3-js-examples-and-demos
+- https://www.tutorialsteacher.com/d3js
